@@ -3,12 +3,26 @@
 2. Truffle 
 ` npm install -g truffle `
 3. Ganache 
+4. Meta mask extension (just for testing atleast for now)
 
 # Set up
+``` bash
+# Install dependencies (only the first time)
+npm install
 
-step 1: `npm install`
-step 2: `npm start`
-step 3: `truffle compile `
+# starting at the local host u choose in ganache
+npm start
+
+# Compiling using truffle
+truffle compile
+
+# Build for production in the dist/ directory
+npm run build
+
+# Testing smart contracts
+truffle test
+```
+
 
 # Getting Started with Create React App
 
