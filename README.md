@@ -2,8 +2,9 @@
 1. Node
 2. Truffle 
 ` npm install -g truffle `
-3. Ganache 
-4. Meta mask extension (just for testing atleast for now)
+3. Solana (see website)
+4. Ganache 
+5. Phantom extension (MUST HAVE!!!!!!!)
 
 # Set up
 ``` bash
