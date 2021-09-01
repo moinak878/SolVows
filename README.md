@@ -1,6 +1,23 @@
-# My Dapp
+# SolVows
 
-This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+This project is for the blockchain application SolVows. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+
+# Contributors
+1. Rishita Shaw
+2. Moinak Banerjee
+3. Shaily Shekhar
+
+# Preview
+
+![Screenshot (28)](https://user-images.githubusercontent.com/75828535/131639258-53347e6c-59f4-4ac5-9051-f42e623a77da.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/75828535/131639270-3d042001-e0b8-4033-98cc-77f09667d45a.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/75828535/131639275-cf165097-e71f-4dfc-8b16-3fc32617f336.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/75828535/131639279-c2e6b57f-5fcd-423c-8043-9cd4720b5fcc.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/75828535/131639294-29584b26-145a-472f-9949-64a06c54fc43.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/75828535/131639306-89d1ec54-a654-47f2-bcdd-362f98931b3d.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/75828535/131639314-85b133d4-dea1-4fd3-93ba-26c3ecc96645.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/75828535/131639327-78e32ab1-d77b-41b3-80cf-c0c95e850e25.png)
+
 
 # Pre-requisites
 
@@ -56,7 +73,6 @@ Here are the locations of some important files:
 
 To view your dapp, open your browser to http://localhost:5000 for the DappStarter Workspace.
 
-We ♥️ developers and want you to have an awesome experience. You should be experiencing Dappiness at this point. If not, let us know and we will help. Join our [Discord](https://discord.gg/XdtJfu8W) or hit us up on Twitter [@Decentology](https://twitter.com/decentology).
 
 ## Dependency Guides
 
