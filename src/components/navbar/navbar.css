@@ -1,0 +1,26 @@
+.navbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 2rem 7%;
+  width: 100vw;
+}
+.navbar-logo {
+  font-weight: 900;
+  font-size: 3rem;
+  text-decoration: none !important;
+}
+.navbar-buttons div {
+  float: right !important;
+  margin-top: 15px;
+  padding: 10px;
+  border-color: #3498db;
+  border-radius: 4px;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+  transition: all 150ms ease-in-out;
+  font-weight: 600;
+}
+.navbar-buttons div:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  color: black;
+}
