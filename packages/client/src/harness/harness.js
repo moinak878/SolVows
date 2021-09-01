@@ -43,6 +43,13 @@ export default class HarnessPage extends LitElement {
         "description": "Simple read and write example.",
         "category": "Examples",
         "route": "/core-hello_dev"
+      },
+      {
+        "name": "solVows",
+        "title": "solVows",
+        "description": "Wedding on the blockchain.",
+        "category": "examples",
+        "route": "/solVows"
     }
 ]; 
   }
