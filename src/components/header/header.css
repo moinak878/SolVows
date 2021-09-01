@@ -1,0 +1,13 @@
+.header {
+  margin-top: 10rem;
+  margin-left: 2rem;
+  color: black;
+  font-size: 4rem;
+  line-height: 7rem;
+  font-weight: 900;
+}
+
+.header span {
+  font-weight: 100;
+  text-decoration: line-through;
+}
